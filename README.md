@@ -68,3 +68,10 @@ A new model introduced in the paper, E.S.C.A.P.E. breaks down social engineering
 
 ## 📬 Citation
 
+---
+
+This paper introduces the Human-E.S.C.A.P.E. model to address rising human-centric cyber threats. Analyzing breaches at Twitter \[8], Uber \[10], and MGM Resorts \[15], it shows how social engineering exploits trust and procedural gaps to bypass MFA and IAM, demanding a shift in threat modeling focus.
+
+---
+
+
